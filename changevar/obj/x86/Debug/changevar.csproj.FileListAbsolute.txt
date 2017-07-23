@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\lesson1\changevar\bin\Debug\changevar.exe
+E:\Matyukov\csharp\lesson1\changevar\bin\Debug\changevar.pdb
+E:\Matyukov\csharp\lesson1\changevar\obj\x86\Debug\changevar.exe
+E:\Matyukov\csharp\lesson1\changevar\obj\x86\Debug\changevar.pdb

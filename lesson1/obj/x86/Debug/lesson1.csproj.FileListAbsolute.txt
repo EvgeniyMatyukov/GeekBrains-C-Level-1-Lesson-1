@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\lesson1\lesson1\bin\Debug\lesson1.exe
+E:\Matyukov\csharp\lesson1\lesson1\bin\Debug\lesson1.pdb
+E:\Matyukov\csharp\lesson1\lesson1\obj\x86\Debug\lesson1.exe
+E:\Matyukov\csharp\lesson1\lesson1\obj\x86\Debug\lesson1.pdb

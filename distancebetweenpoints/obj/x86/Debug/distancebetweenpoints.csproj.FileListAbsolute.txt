@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\lesson1\distancebetweenpoints\bin\Debug\distancebetweenpoints.exe
+E:\Matyukov\csharp\lesson1\distancebetweenpoints\bin\Debug\distancebetweenpoints.pdb
+E:\Matyukov\csharp\lesson1\distancebetweenpoints\obj\x86\Debug\distancebetweenpoints.exe
+E:\Matyukov\csharp\lesson1\distancebetweenpoints\obj\x86\Debug\distancebetweenpoints.pdb

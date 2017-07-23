@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\lesson1\BodyWeightIndex\bin\Debug\BodyWeightIndex.exe
+E:\Matyukov\csharp\lesson1\BodyWeightIndex\bin\Debug\BodyWeightIndex.pdb
+E:\Matyukov\csharp\lesson1\BodyWeightIndex\obj\x86\Debug\BodyWeightIndex.exe
+E:\Matyukov\csharp\lesson1\BodyWeightIndex\obj\x86\Debug\BodyWeightIndex.pdb
